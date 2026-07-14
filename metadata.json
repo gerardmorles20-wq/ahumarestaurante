@@ -1,0 +1,6 @@
+{
+  "name": "Ahuma Restaurante",
+  "description": "Aplicación móvil y web premium para Ahuma Steak House. Explora nuestro menú de cortes ahumados slowly, arma tu pedido y envíalo por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
